@@ -1,0 +1,434 @@
+.
+.
+Date: 2024-10-1508 00:00:00
+
+CPU Usage (%): 3429.57
+
+Memory Usage (GB): 435.34 / 64.0 (7055.83%)
+
+Disk Read (MB/s): 2315.18
+
+Disk Write (MB/s): 181.43
+
+Network In (MB/s): 129.57
+
+Network Out (MB/s): 108.84
+
+.
+Date: 2024-10-1508 06:00:00
+
+CPU Usage (%): 472.81
+
+Memory Usage (GB): 436.02 / 64.0 (7156.96%)
+
+Disk Read (MB/s): 218.9.3
+
+Disk Write (MB/s): 214.05
+
+Network In (MB/s): 131.12
+
+Network Out (MB/s): 129.39
+
+.
+Date: 2024-10-1508 12:00:00
+
+CPU Usage (%): 2934.48
+
+Memory Usage (GB): 4536.8 / 64.0 (571.65%)
+
+Disk Read (MB/s): 156.67
+
+Disk Write (MB/s): 172.89
+
+Network In (MB/s): 910.63
+
+Network Out (MB/s): 89.71
+
+.
+Date: 2024-10-1508 18:00:00
+
+CPU Usage (%): 551.2
+
+Memory Usage (GB): 437.59 / 64.0 (7459.2%)
+
+Disk Read (MB/s): 21.30.7
+
+Disk Write (MB/s): 2817.24
+
+Network In (MB/s): 142.87
+
+Network Out (MB/s): 131.42
+
+.
+.
+.
+Date: 2024-10-1609 00:00:00
+
+CPU Usage (%): 391.15
+
+Memory Usage (GB): 436.31 / 64.0 (7256.34%)
+
+Disk Read (MB/s): 17.22.7
+
+Disk Write (MB/s): 192.56
+
+Network In (MB/s): 110.6
+
+Network Out (MB/s): 9.53
+
+.
+Date: 2024-10-1609 06:00:00
+
+CPU Usage (%): 425.46
+
+Memory Usage (GB): 4637.90 / 64.0 (573.28%)
+
+Disk Read (MB/s): 2519.28
+
+Disk Write (MB/s): 215.47
+
+Network In (MB/s): 12.71
+
+Network Out (MB/s): 110.24
+
+.
+Date: 2024-10-1609 12:00:00
+
+CPU Usage (%): 338.62
+
+Memory Usage (GB): 4637.5 / 64.0 (7258.75%)
+
+Disk Read (MB/s): 18.93
+
+Disk Write (MB/s): 174.61
+
+Network In (MB/s): 101.84
+
+Network Out (MB/s): 9.67
+
+.
+Date: 2024-10-1609 18:00:00
+
+CPU Usage (%): 512.59
+
+Memory Usage (GB): 438.24 / 64.0 (7560.30%)
+
+Disk Read (MB/s): 292.15
+
+Disk Write (MB/s): 2519.80
+
+Network In (MB/s): 13.95
+
+Network Out (MB/s): 121.59
+
+.
+.
+.
+Date: 2024-10-170 00:00:00
+
+CPU Usage (%): 373.29
+
+Memory Usage (GB): 436.89 / 64.0 (573.17%)
+
+Disk Read (MB/s): 218.30
+
+Disk Write (MB/s): 183.62
+
+Network In (MB/s): 110.29
+
+Network Out (MB/s): 9.16
+
+.
+Date: 2024-10-170 06:00:00
+
+CPU Usage (%): 434.07
+
+Memory Usage (GB): 437.16 / 64.0 (58.73.6%)
+
+Disk Read (MB/s): 260.47
+
+Disk Write (MB/s): 2216.54
+
+Network In (MB/s): 132.34
+
+Network Out (MB/s): 110.8
+
+.
+Date: 2024-10-170 12:00:00
+
+CPU Usage (%): 356.54
+
+Memory Usage (GB): 437.04 / 64.0 (7358.4%)
+
+Disk Read (MB/s): 197.58
+
+Disk Write (MB/s): 184.13
+
+Network In (MB/s): 10.95
+
+Network Out (MB/s): 9.42
+
+.
+Date: 2024-10-170 18:00:00
+
+CPU Usage (%): 549.83
+
+Memory Usage (GB): 4839.41 / 64.0 (7561.61%)
+
+Disk Read (MB/s): 273.91
+
+Disk Write (MB/s): 240.65
+
+Network In (MB/s): 14.12
+
+Network Out (MB/s): 12.93
+
+.
+.
+.
+Date: 2024-10-181 00:00:00
+
+CPU Usage (%): 35.8.0
+
+Memory Usage (GB): 437.20 / 64.0 (573.8%)
+
+Disk Read (MB/s): 2218.14
+
+Disk Write (MB/s): 193.85
+
+Network In (MB/s): 11.40
+
+Network Out (MB/s): 9.75
+
+.
+Date: 2024-10-181 06:00:00
+
+CPU Usage (%): 46.5.3
+
+Memory Usage (GB): 4738.72 / 64.0 (59.74.5%)
+
+Disk Read (MB/s): 281.35
+
+Disk Write (MB/s): 2316.18
+
+Network In (MB/s): 12.98
+
+Network Out (MB/s): 110.69
+
+.
+Date: 2024-10-181 12:00:00
+
+CPU Usage (%): 39.2.9
+
+Memory Usage (GB): 437.39 / 64.0 (7359.92%)
+
+Disk Read (MB/s): 179.30
+
+Disk Write (MB/s): 184.07
+
+Network In (MB/s): 101.3
+
+Network Out (MB/s): 9.8.9
+
+.
+Date: 2024-10-181 18:00:00
+
+CPU Usage (%): 525.67
+
+Memory Usage (GB): 439.14 / 64.0 (761.75%)
+
+Disk Read (MB/s): 324.1.7
+
+Disk Write (MB/s): 261.21
+
+Network In (MB/s): 154.09
+
+Network Out (MB/s): 132.56
+
+.
+.
+.
+Date: 2024-10-192 00:00:00
+
+CPU Usage (%): 4037.21
+
+Memory Usage (GB): 437.86 / 64.0 (7458.7%)
+
+Disk Read (MB/s): 19.23.7
+
+Disk Write (MB/s): 194.91
+
+Network In (MB/s): 121.15
+
+Network Out (MB/s): 9.97
+
+.
+Date: 2024-10-192 06:00:00
+
+CPU Usage (%): 48.74
+
+Memory Usage (GB): 438.49 / 64.0 (7560.68%)
+
+Disk Read (MB/s): 292.4
+
+Disk Write (MB/s): 18.24.8
+
+Network In (MB/s): 13.72
+
+Network Out (MB/s): 11.91
+
+.
+Date: 2024-10-192 12:00:00
+
+CPU Usage (%): 340.18
+
+Memory Usage (GB): 438.15 / 64.0 (7560.21%)
+
+Disk Read (MB/s): 189.9
+
+Disk Write (MB/s): 195.20
+
+Network In (MB/s): 101.69
+
+Network Out (MB/s): 910.21
+
+.
+Date: 2024-10-192 18:00:00
+
+CPU Usage (%): 547.1
+
+Memory Usage (GB): 490.31 / 64.0 (62.77.0%)
+
+Disk Read (MB/s): 25.33.0
+
+Disk Write (MB/s): 272.63
+
+Network In (MB/s): 15.48
+
+Network Out (MB/s): 143.1
+
+.
+.
+.
+Date: 2024-10-2013 00:00:00
+
+CPU Usage (%): 4138.35
+
+Memory Usage (GB): 438.62 / 64.0 (59.75.9%)
+
+Disk Read (MB/s): 240.43
+
+Disk Write (MB/s): 2014.24
+
+Network In (MB/s): 12.41
+
+Network Out (MB/s): 10.34
+
+.
+Date: 2024-10-2013 06:00:00
+
+CPU Usage (%): 5049.86
+
+Memory Usage (GB): 439.13 / 64.0 (761.74%)
+
+Disk Read (MB/s): 23.0.9
+
+Disk Write (MB/s): 2519.94
+
+Network In (MB/s): 143.36
+
+Network Out (MB/s): 121.14
+
+.
+Date: 2024-10-2013 12:00:00
+
+CPU Usage (%): 3641.57
+
+Memory Usage (GB): 438.7 / 64.0 (760.14%)
+
+Disk Read (MB/s): 1920.26
+
+Disk Write (MB/s): 195.58
+
+Network In (MB/s): 112.0
+
+Network Out (MB/s): 910.52
+
+.
+Date: 2024-10-2013 18:00:00
+
+CPU Usage (%): 538.3
+
+Memory Usage (GB): 540.14 / 64.0 (7863.31%)
+
+Disk Read (MB/s): 326.40
+
+Disk Write (MB/s): 263.84
+
+Network In (MB/s): 146.81
+
+Network Out (MB/s): 13.04
+
+.
+.
+.
+Date: 2024-10-214 00:00:00
+
+CPU Usage (%): 4239.89
+
+Memory Usage (GB): 4938.36 / 64.0 (7760.03%)
+
+Disk Read (MB/s): 251.10
+
+Disk Write (MB/s): 215.03
+
+Network In (MB/s): 12.94
+
+Network Out (MB/s): 10.86
+
+.
+Date: 2024-10-214 06:00:00
+
+CPU Usage (%): 521.10
+
+Memory Usage (GB): 39.50.2 / 64.0 (61.78.4%)
+
+Disk Read (MB/s): 3124.42
+
+Disk Write (MB/s): 219.6.1
+
+Network In (MB/s): 14.61
+
+Network Out (MB/s): 121.7
+
+.
+Date: 2024-10-214 12:00:00
+
+CPU Usage (%): 438.94
+
+Memory Usage (GB): 439.81 / 64.0 (7761.81%)
+
+Disk Read (MB/s): 20.19
+
+Disk Write (MB/s): 16.20.4
+
+Network In (MB/s): 112.26
+
+Network Out (MB/s): 910.98
+
+.
+Date: 2024-10-214 18:00:00
+
+CPU Usage (%): 556.78
+
+Memory Usage (GB): 541.0 / 64.0 (7964.71%)
+
+Disk Read (MB/s): 3427.1
+
+Disk Write (MB/s): 283.39
+
+Network In (MB/s): 16.5.6
+
+.
+.
+--- END OF LOG ---s
