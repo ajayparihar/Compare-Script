@@ -18,4 +18,9 @@ This Python script compares two text files and generates a visual report highlig
   
 2. **Run the script**: Execute the script from the command line:
    ```bash
-   python compare_script.py
+   python Compare_script.py
+
+3. **View the report**: Open comparison_report.html in your web browser to view the differences.
+
+
+
