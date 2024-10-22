@@ -3,7 +3,7 @@ import difflib
 # Constants for HTML styling
 COLOR_GREEN = "#00FF00"       # Bright green for new value
 COLOR_RED = "#FF0000"         # Bright red for previous value
-HIGHLIGHT = "#696969"         # Highlight color for changed text
+HIGHLIGHT_COLOR = "#696969"   # Highlight color for changed text
 BACKGROUND_COLOR = "#2e2e2e"  # Dark background
 TEXT_COLOR = "#f0f0f0"        # Light text color
 CONTAINER_BACKGROUND = "#3a3a3a"  # Slightly lighter background for the report
@@ -50,16 +50,16 @@ def format_diff(original, modified):
 
 def handle_replace(original, modified):
     """Handle the formatting for replaced text."""
-    previous_value = original.strip()
+    original_value = original.strip()
     new_value = modified.strip()
 
-    highlight_span = f'<span style="background-color: {HIGHLIGHT}; font-weight: bold; padding: 2px 4px; border-radius: 4px;">{previous_value}</span>'
+    highlight_span = f'<span style="background-color: {HIGHLIGHT_COLOR}; font-weight: bold; padding: 2px 4px; border-radius: 4px;">{original_value}</span>'
     
-    if is_number(previous_value) and is_number(new_value):
-        previous_value_float = float(previous_value)
+    if is_number(original_value) and is_number(new_value):
+        original_value_float = float(original_value)
         new_value_float = float(new_value)
 
-        if previous_value_float > new_value_float:
+        if original_value_float > new_value_float:
             return [
                 highlight_span,
                 f'<span class="changed" style="color: {COLOR_GREEN};">{new_value}</span>'  # Show the new value in green
